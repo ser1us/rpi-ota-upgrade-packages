@@ -1,8 +1,9 @@
 # Run apt upgrade on a remote device
 artefact:
-  name: full-upgrade
+  name: aptupgrade
   version: 1.0
   device_type: rpi
+
   payloads:
-    - name: full-upgrade.sh
+    - name: aptupgradescript
       type: script
