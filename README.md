@@ -11,4 +11,4 @@ _contents_.yaml
 aptupgradescript
 
 Artefact: aptupgrade.tar.zst
-SHA256: d574a54ab1e4c9c41f8cc6ab901e0d94ad02657029b4ab02a23415114b27fe7f
+SHA256: 2f571ddaf34d86887d33199ac28797e16cafe3bb2e8a046f9532093504f3b1e9
